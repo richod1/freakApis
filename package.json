@@ -1,6 +1,28 @@
 {
   "name": "freakApis",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richod1/freakApis.git"
+  },
+  "keywords": [
+    "freeapi",
+    "Restful",
+    "open-source",
+    "api-as-a-service"
+  ],
+  "author": "Degraft Frimpong",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^7.0.0",
+    "mongoose": "^7.5.2",
+    "nodemon": "^3.0.1"
+  }
 }
