@@ -35,8 +35,8 @@ import mongoose from "mongoose";
 //        email:"john@doe.com"
 //      },
 //      {
-//        name:"Mark H",
-//        email:"mark@h.com"
+//        name:"frimp.X",
+//        email:"frimpsup.X@gmail.com"
 //      }
 //  ]
  * 
